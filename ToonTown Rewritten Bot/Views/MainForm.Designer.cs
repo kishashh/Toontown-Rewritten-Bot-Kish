@@ -459,7 +459,7 @@
             startRacing.TabIndex = 0;
             startRacing.Text = "Race Screwball Stadium";
             startRacing.UseVisualStyleBackColor = true;
-            startRacing.Visible = false;
+            startRacing.Visible = true;
             startRacing.Click += button5_Click;
             // 
             // Gardening
