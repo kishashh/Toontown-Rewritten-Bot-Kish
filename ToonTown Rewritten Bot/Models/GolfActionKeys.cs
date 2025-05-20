@@ -18,11 +18,11 @@ namespace ToonTown_Rewritten_Bot.Models
         {
             ActionKeyMap = new Dictionary<string, VirtualKeyCode>
             {
-                {"SWING POWER", VirtualKeyCode.CONTROL},
-                {"TURN LEFT", VirtualKeyCode.LEFT},
-                {"TURN RIGHT", VirtualKeyCode.RIGHT},
-                {"MOVE TO LEFT TEE SPOT", VirtualKeyCode.LEFT},
-                {"MOVE TO RIGHT TEE SPOT", VirtualKeyCode.RIGHT},
+                { "SWING POWER", VirtualKeyCode.SPACE },
+                { "TURN LEFT", VirtualKeyCode.VK_A },
+                { "TURN RIGHT", VirtualKeyCode.VK_D },
+                { "MOVE TO LEFT TEE SPOT", VirtualKeyCode.VK_A },
+                { "MOVE TO RIGHT TEE SPOT", VirtualKeyCode.VK_D },
             };
         }
 
