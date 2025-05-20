@@ -2,11 +2,11 @@
   {
     "Action": "DELAY TIME",
     "Command": "DELAY TIME",
-    "Duration": 15000
+    "Duration": 14000
   },
   {
     "Action": "SWING POWER",
     "Command": "SWING POWER",
-    "Duration": 1800
+    "Duration": 1747
   }
 ]

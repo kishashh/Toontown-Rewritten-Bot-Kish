@@ -2,7 +2,7 @@
   {
     "Action": "DELAY TIME",
     "Command": "DELAY TIME",
-    "Duration": 15000
+    "Duration": 14000
   },
   {
     "Action": "TURN RIGHT",
